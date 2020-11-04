@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="22.847547">
+<testcase classname="FaceBook Registration  Action Feature" name="FaceBook Registration Details Test Scenario" time="22.847547">
+<system-out><![CDATA[Given user should enter the url.............................................passed
+When title of the page is facebook..........................................passed
+Then user should click on Create New Account................................passed
+Then user should enter facebook details.....................................passed
+Then Close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
